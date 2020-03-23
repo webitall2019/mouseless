@@ -206,9 +206,12 @@ header .timer-box{
   flex-basis: 40%;
 }
 
+.social-box{
+  display: block!important;
+}
 .social-box__list {
   display: -webkit-box;
-  display: flex!important;
+  display: flex;
   flex-wrap: wrap;
 }
 
