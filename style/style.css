@@ -208,7 +208,7 @@ header .timer-box{
 
 .social-box__list {
   display: -webkit-box;
-  display: flex;
+  display: flex!important;
   flex-wrap: wrap;
 }
 
