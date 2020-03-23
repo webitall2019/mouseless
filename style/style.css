@@ -360,8 +360,8 @@ header .timer-box{
 .cta-call:hover {
   -webkit-transition: ease-in-out .3s;
   transition: ease-in-out .3s;
-  background-color: #0f0f0f8c;
-  color: rgb(223, 217, 217);
+  background-color: #121212;
+  color: #fdd231;
 }
 
 #timer__box-text span {
